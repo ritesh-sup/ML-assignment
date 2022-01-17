@@ -1,6 +1,6 @@
 # ML-assignment
-# 1DS19EE070 
-# Ritesh
+# 1DS19EE070 1DS19EE068 1DS19EE083 1DS19EE094
+# Ritesh, Rishabh Dadhich, Shivam Thakur, Tamseel Ahmed
 # Problem statement
 Write the code snippets which can do the following, and explain the working  (i)  Read a csv file using pandas                                                                                                                                                  (ii) Print the confusion matrix                                                                                                                                                    (iii) Find the mean square error
 
