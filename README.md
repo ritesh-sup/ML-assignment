@@ -2,7 +2,7 @@
 # 1DS19EE070 
 # Ritesh
 # Problem statement
-Write a program to read a file containing house prices of 1000 houses based on the number of square feet. Split the data into training data of 80% and test data of 20%, fit the data to a linear regression, and print the mean square error on the test data.
+Write the code snippets which can do the following, and explain the working  (i)  Read a csv file using pandas                                                                                                                                                  (ii) Print the confusion matrix                                                                                                                                                    (iii) Find the mean square error
 
 # Dependencies
 pandas library: For data filtering
