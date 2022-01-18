@@ -7,6 +7,5 @@ Write the code snippets which can do the following, and explain the working  (i)
 # Dependencies
 pandas library: For data filtering
 numpy library: To convert data into mathematically fit values for computation
-matplotlib library: To plot the data
-sklearn methods: To implement Linear Regression model
+sklearn methods: To calculate the confusion matrix and find the mean squared error
 # The model in the given code is developed using Jupyter Note with python libraries
